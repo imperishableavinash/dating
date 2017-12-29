@@ -1,0 +1,30 @@
+#content{
+	text-align: center;
+	padding-top: 20%;
+}
+
+body{
+	color: white;
+	background: url(https://images.unsplash.com/photo-1415369629372-26f2fe60c467?auto=format&fit=crop&w=1534&q=80);
+	background-position: center;
+	background-size: cover;
+}
+
+h1{
+	color: white;
+	font-weight: 700;
+}
+
+h5{
+	color: white;
+}
+
+hr{
+	border-top: 1px solid #f8f8f8;
+	width: 400px;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+html{
+	height: 100%;
+}
